@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Regan!
+- 👀 I’m interested in understanding coding and GitHub
+- 🌱 I’m currently learning about web3
+- 💞️ I’m looking to collaborate on finding great devs to join Consensys
+- 📫 How to reach me: via LinkedIn, or messaging me here!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I share a name with the girl from the Exorcist (Yeah, her name is Regan, too!)
